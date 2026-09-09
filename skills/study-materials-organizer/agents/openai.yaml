@@ -1,0 +1,4 @@
+interface:
+  display_name: "Study Materials Organizer"
+  short_description: "Organize study materials and convert formula-safe PDFs"
+  default_prompt: "Organize teaching materials, split original and answer versions, and batch-convert Word files to PDF with Microsoft Word COM."
